@@ -1,0 +1,33 @@
+Décompressez pour la première fois {Steamdir]\steamapps\common\Poppy Playtime\PoppyPlaytime_Chapter3\Playtime_Chapter3
+
+Les futurs mods Paks se décompressent dans \steamapps\common\Poppy Playtime\PoppyPlaytime_Chapter3\Playtime_Chapter3\Content\Paks
+
+V - Voler et téléporter
+X - Basculer le menu
+R - Supprimer des objets
+4 - Vitesse rapide
+5 - Bascule entre l'éclairage du jeu ou le ciel totalement éclairé
+6 - Ralentit tout sauf le joueur .. presque en pause
+7 - Change le mode d'éclairage à chaque pression
+
+Besoin d'un nouveau multisummon - Le menu Multi Summon peut être utilisé pour sauvegarder une liste d'objets invoqués (copier-coller à partir d'un fichier texte). La touche X ou le bouton d'invocation les fait réapparaître.
+
+Cibler des accessoires dans le viseur
+i invoque le dernier maillage (1er choix dans le menu déroulant) sans menu
+o invoque le dernier acteur Blueprint sans menu
+, - réduit la taille de l'objet
+. - augmente la taille de l'objet
+; - fait pivoter
+L - bascule multiple changeant l'axe (taille, rotation) avec les touches ci-dessus
+/ - applique le matériau sélectionné dans le menu au matériau et à l'emplacement sélectionnés
+Z - Décalcomanie
+
+Actions clés sur un accessoire sélectionné ou ciblé à nouveau
+] fait monter ou mettre en pause le dernier accessoire (utiliser sur un plan de lave qui peut être recoloré)
+[ abaisse le dernier accessoire
+
+bascule la physique
+= bascule la gravité
+pgup - porte un objet non physique
+pgdn - détache un objet
+End - détache un objet et le lance
