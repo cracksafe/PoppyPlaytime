@@ -1,7 +1,3 @@
-Décompressez pour la première fois {Steamdir]\steamapps\common\Poppy Playtime\PoppyPlaytime_Chapter3\Playtime_Chapter3
-
-Les futurs mods Paks se décompressent dans \steamapps\common\Poppy Playtime\PoppyPlaytime_Chapter3\Playtime_Chapter3\Content\Paks
-
 V - Voler et téléporter
 X - Basculer le menu
 R - Supprimer des objets
@@ -31,3 +27,7 @@ bascule la physique
 pgup - porte un objet non physique
 pgdn - détache un objet
 End - détache un objet et le lance
+
+About :
+
+Injector Created by danbenba
